@@ -1,0 +1,16 @@
+.wrapper {
+	width:600px;
+	margin:50px auto;
+}
+table tr, th, td {
+	border:1px solid red;
+}
+table {
+	border-collapse:collapse;
+}
+tr,th {
+	height:50px;
+	width:200px;
+	text-align:center;
+	vertical-align:center;
+}
